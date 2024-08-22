@@ -1,4 +1,4 @@
-package com.budgetmaster;
+package BudgetMasterCorrection.com.budgetmaster;
 
 import java.time.LocalDate;
 

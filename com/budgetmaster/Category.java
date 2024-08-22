@@ -1,4 +1,4 @@
-package com.budgetmaster;
+package BudgetMasterCorrection.com.budgetmaster;
 
 public enum Category {
     FOOD_AND_DINING,
